@@ -1,5 +1,4 @@
-### CLI based Quiz on Indian Start-ups! Made with JavaScript.
-## CLI based Quiz on Indian Start-ups! Made with JavaScript.
+<h1>CLI app for Quiz base on Indian Startup</h1>
 
 This is a quiz game called "The Indian Start-up Quiz".   
 
@@ -15,3 +14,4 @@ It is developed in JavaScript at repl.it in Node.js environment.
 
 I have composed the questions after doing a lot of research about    
 Indian startups. The quiz is about interesting info, recent news about acquisition and much more.
+![Screenshot (36)](https://user-images.githubusercontent.com/78811462/134930892-4df05baa-b941-4372-89b1-68b36a329ca6.png)
